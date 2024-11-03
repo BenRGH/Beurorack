@@ -1595,8 +1595,8 @@
     (property "Datasheet" "" (at 91.44 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 20f79939-4f91-4037-844d-5b643019b536))
-    (pin "2" (uuid 1edb168c-d0b3-428e-a7e0-2580a757aa12))
+    (pin "1" (uuid b13ab5fa-5701-460a-9e9a-dce842575ee3))
+    (pin "2" (uuid ffa27086-8005-486d-8da6-a90a5c283b7b))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -1621,8 +1621,8 @@
     (property "Datasheet" "" (at 124.968 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b4e5152a-bf1e-45f8-8381-310fa557f81d))
-    (pin "2" (uuid f1a9785c-a874-4a6d-9bf4-3284a2dec548))
+    (pin "1" (uuid d5b3eba8-9ef8-45e8-8a18-845a6444da1e))
+    (pin "2" (uuid e805f4b0-b0dc-456c-9514-b0dfad01d596))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -1647,7 +1647,7 @@
     (property "Datasheet" "" (at 274.32 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b572920b-776c-440b-ae7f-9c64ce1fba9b))
+    (pin "1" (uuid 112aeecd-80a2-4ff0-8291-7402f6bae88b))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -1672,8 +1672,8 @@
     (property "Datasheet" "" (at 164.338 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 186993f7-7abd-40ea-89c2-2d886c9f043a))
-    (pin "2" (uuid 19f0653d-9fd3-425f-b899-9df8fe362c60))
+    (pin "1" (uuid 87e4220e-7fdd-428c-93bc-88bfa2e81195))
+    (pin "2" (uuid b1647c06-7c36-4b6b-97dd-985949ef23c6))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -1692,14 +1692,14 @@
     (property "Value" "10uF" (at 267.4239 127 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 267.97 130.81 0)
+    (property "Footprint" "PCM_4ms_Capacitor:CP_Radial_P2.5mm" (at 267.97 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 267.97 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c3f74f07-fb6d-43eb-97a9-00c14c55bfda))
-    (pin "2" (uuid 696a7851-7bd4-4aed-9c67-b5ef3c499547))
+    (pin "1" (uuid 13d0a37c-4fbc-4b3a-b7c7-0aef8d9fb2cc))
+    (pin "2" (uuid feb1c97e-8797-4869-9308-844a0e088fad))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -1724,7 +1724,7 @@
     (property "Datasheet" "" (at 259.08 157.48 0)
       (effects (font (size 2.54 2.54)) hide)
     )
-    (pin "0" (uuid 4973f80a-cd57-47d5-b46f-a37ab8afc8d4))
+    (pin "0" (uuid 2a8c5a03-c39b-4402-985f-a0ecce7839bf))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -1743,14 +1743,14 @@
     (property "Value" "In 1.3" (at 29.21 65.405 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 34.29 63.5 0)
+    (property "Footprint" "PCM_4ms_Jack:QuarterInch_Stereo_Vert_SwitchCraftNYS234-3" (at 34.29 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 34.29 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "S" (uuid d593691b-5253-4220-a872-efe22162e31a))
-    (pin "T" (uuid 2702237e-8a67-45e2-8cf0-51a61df0caf2))
+    (pin "S" (uuid 59f346bc-a0b5-42dd-bd1d-4d202f572848))
+    (pin "T" (uuid 81cdabbe-f518-4166-9310-d392fcee63ea))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -1769,15 +1769,15 @@
     (property "Value" "100k" (at 82.55 153.67 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 83.82 152.4 0)
+    (property "Footprint" "PCM_4ms_Potentiometer:Pot_9mm_DShaft" (at 83.82 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 83.82 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid afc83b42-f6da-4667-b93f-8c85bafd325a))
-    (pin "2" (uuid 04744cd5-fcd9-40af-bac3-d0c822228899))
-    (pin "3" (uuid 8ef0728d-f2e1-401a-96fb-cb1569acd228))
+    (pin "1" (uuid e7c87619-112b-449f-8548-10c537bdd185))
+    (pin "2" (uuid c393a843-ab7c-4179-b0b5-fcb75abc6078))
+    (pin "3" (uuid 2af780e8-e171-48a8-8073-d615b502434b))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -1796,26 +1796,26 @@
     (property "Value" "TL074" (at 124.46 123.19 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 123.19 128.27 0)
+    (property "Footprint" "PCM_4ms_Package_DIP:DIP-14_W7.62mm" (at 123.19 128.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf" (at 125.73 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 223c8a06-07fe-4b38-b686-eea5cc3b4572))
-    (pin "2" (uuid 440948e3-f340-4435-adc3-c58149ee788f))
-    (pin "3" (uuid ab9a99e1-e36a-43d7-b058-941890c891df))
-    (pin "5" (uuid e62c45fa-5a43-49a2-9f5f-e53af2e18fff))
-    (pin "6" (uuid faad7be5-e0f9-4e21-ba21-b2d34471cc74))
-    (pin "7" (uuid 617b4217-91ab-458f-9eb8-061ace84feed))
-    (pin "10" (uuid 2f5b6f76-bc19-461d-ad98-13b7df86df02))
-    (pin "8" (uuid aeb7d06d-50c6-4678-b249-c3e78720f8bf))
-    (pin "9" (uuid b5b93c80-8489-4188-8858-ed84ff5a063a))
-    (pin "12" (uuid e2762ee9-1fe7-402a-8adf-ce4c99b69462))
-    (pin "13" (uuid 2cd38e6d-d518-4ba6-bb47-b330b7727916))
-    (pin "14" (uuid 537b9c04-b065-433c-a524-963e339c6d08))
-    (pin "11" (uuid 5e676289-66da-4cb6-ae56-2f97b2fafe22))
-    (pin "4" (uuid eadfeab2-6177-46d4-b6b7-39f885919ebd))
+    (pin "1" (uuid 1e654dd9-5ebe-453a-b92f-14532466d058))
+    (pin "2" (uuid 54f5cc27-7d0a-4628-96db-fa2ff8b1805c))
+    (pin "3" (uuid 47ba5aa0-e62b-4219-99f4-6cd25cf62414))
+    (pin "5" (uuid 2b4ad128-6283-41c7-bcad-2bf8b5a656ac))
+    (pin "6" (uuid 0601db11-e92c-4aea-ae2b-8eccfc7881a2))
+    (pin "7" (uuid 78fcee6c-290d-4a35-abb4-5312e370f029))
+    (pin "10" (uuid ec8bfd35-7a90-4460-b803-6c4820f539f8))
+    (pin "8" (uuid 4d4924e0-6d88-4f77-bd4f-b92d56fa14ea))
+    (pin "9" (uuid d287f65f-8322-4eb2-9f99-578667e1a889))
+    (pin "12" (uuid 3d3c4cf5-6a03-4a20-b061-8125f52c8525))
+    (pin "13" (uuid bf7b7026-77e7-481b-93fb-9e59fe7332da))
+    (pin "14" (uuid 32242cb3-4c08-4f23-96f0-0b2e27f25982))
+    (pin "11" (uuid e9a77f4b-e3a7-4ffb-b91c-31983828edd6))
+    (pin "4" (uuid 39b2c186-c1be-4a0d-8799-dcf93527ddd7))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -1834,15 +1834,15 @@
     (property "Value" "100k" (at 49.53 52.07 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 50.8 50.8 0)
+    (property "Footprint" "PCM_4ms_Potentiometer:Pot_9mm_DShaft" (at 50.8 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 50.8 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b7b628e2-db25-4bdd-a19f-ab95dd7111d1))
-    (pin "2" (uuid 849d903f-4ebd-493c-8e0b-549ed5631d49))
-    (pin "3" (uuid 09e2f1df-9408-4c53-a674-a990ce351f6a))
+    (pin "1" (uuid 5d897b27-3d68-4990-89af-f426b9fef5f5))
+    (pin "2" (uuid 1c03d9d3-625b-4fdb-b780-a42fc2397b05))
+    (pin "3" (uuid 451c5ba5-a8f5-4979-a611-c13256223452))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -1867,8 +1867,8 @@
     (property "Datasheet" "" (at 61.468 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7306d174-6596-4d02-86a5-7f4eedbb1a8e))
-    (pin "2" (uuid 2a23fb1a-7df7-4ea7-b2be-28377c5297fe))
+    (pin "1" (uuid 5b9e9ef8-0371-4918-9ddb-63f37f51935e))
+    (pin "2" (uuid 5ae49487-b3de-4c45-b675-2e72c74938be))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -1887,14 +1887,14 @@
     (property "Value" "In 1.4" (at 29.21 81.915 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 34.29 80.01 0)
+    (property "Footprint" "PCM_4ms_Jack:QuarterInch_Stereo_Vert_SwitchCraftNYS234-3" (at 34.29 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 34.29 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "S" (uuid 0dcb3f72-12e1-4855-a551-a0b268d98007))
-    (pin "T" (uuid 464c961c-1216-49f9-9a13-483113742af2))
+    (pin "S" (uuid 4555792e-d41a-4d3d-b3e8-373272c7daca))
+    (pin "T" (uuid 221d7cad-63be-445f-89d9-8a5129947452))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -1919,8 +1919,8 @@
     (property "Datasheet" "" (at 250.19 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 93bf797a-c7d7-4075-8e81-673dee43a066))
-    (pin "2" (uuid 57d479dd-ec42-4fc6-8435-034b2e80ae1b))
+    (pin "1" (uuid 92534e94-1b37-4df1-8d52-0485d144e0a1))
+    (pin "2" (uuid 05f5fcaf-07f6-4674-8757-2dde8bbc2e72))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -1945,8 +1945,8 @@
     (property "Datasheet" "" (at 91.44 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fc5bf82c-949b-4037-ac87-6f4219638663))
-    (pin "2" (uuid 7a5b712f-a845-44ef-9e3a-3651b051b59e))
+    (pin "1" (uuid 440c4b2b-098e-44fc-9355-6255ff07c644))
+    (pin "2" (uuid 1add835c-ce1b-44ab-a639-6ca16abc8095))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -1971,7 +1971,7 @@
     (property "Datasheet" "" (at 154.94 160.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 74cb5919-1d41-4770-95a1-5c525e733e7a))
+    (pin "1" (uuid 3f5264e9-b38b-42ed-a0a8-26887d0194ee))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -1990,14 +1990,14 @@
     (property "Value" "LED" (at 158.75 131.1275 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 154.94 130.81 0)
+    (property "Footprint" "PCM_4ms_LED:LED_3mm_C1A2_Polarity_Indicator" (at 154.94 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 154.94 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7c3c0c77-8026-4062-9c63-674c63b4ddd5))
-    (pin "2" (uuid 99490c15-ed61-4dde-957c-0afe0f16b589))
+    (pin "1" (uuid e10d8d11-adfb-42a2-9190-4509db1a43c6))
+    (pin "2" (uuid 71424de1-08fe-4c98-8016-cec4d0174a9b))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2016,14 +2016,14 @@
     (property "Value" "In 2.3" (at 29.21 147.955 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 34.29 146.05 0)
+    (property "Footprint" "PCM_4ms_Jack:QuarterInch_Stereo_Vert_SwitchCraftNYS234-3" (at 34.29 146.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 34.29 146.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "S" (uuid 530a9441-15b7-4c11-88e9-1f87a2e3d474))
-    (pin "T" (uuid e3b040c8-d79e-4713-a51d-df1f31a7634e))
+    (pin "S" (uuid 37253754-3a8e-4b97-a0b9-8102a4a2e570))
+    (pin "T" (uuid 4d867f81-c06b-403a-bd52-f840647ae46c))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2048,8 +2048,8 @@
     (property "Datasheet" "" (at 61.468 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 511569c0-10e6-4cc6-9276-f31c09959549))
-    (pin "2" (uuid 3cd815bf-a4b8-4bbc-b063-462ebedf7b4e))
+    (pin "1" (uuid b1f497e0-0d34-4fe3-96b7-930d24c9eeef))
+    (pin "2" (uuid 2fd9412f-c3f1-454f-9f0e-1e1780ebae7c))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2068,15 +2068,15 @@
     (property "Value" "100k" (at 49.53 68.58 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 50.8 67.31 0)
+    (property "Footprint" "PCM_4ms_Potentiometer:Pot_9mm_DShaft" (at 50.8 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 50.8 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 98b8efea-9eb6-4ab6-a1d4-52127205a84c))
-    (pin "2" (uuid 3ee0399a-2821-4b3b-b405-91516bf4447a))
-    (pin "3" (uuid 52108296-4b56-48bd-9edc-7403bb207a7a))
+    (pin "1" (uuid abd06907-bc55-4679-bc37-9c2d715f5442))
+    (pin "2" (uuid 2d2af058-746f-4780-a3a4-710ffc02685b))
+    (pin "3" (uuid db7a7925-a9f3-442c-8524-6a9affbc5bd2))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2101,9 +2101,9 @@
     (property "Datasheet" "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF" (at 152.4 119.38 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid d46dbd22-a9f3-46e0-aefa-46456eb964c1))
-    (pin "2" (uuid 384ac2af-8c66-426e-8993-6488ed64b21f))
-    (pin "3" (uuid 6ed5c92b-8ff3-43e3-b0f7-a9b3148aa6fa))
+    (pin "1" (uuid 06cbfcdf-28bd-46db-9593-be2541d78d94))
+    (pin "2" (uuid 2f424202-4f8d-41c1-b284-b1d39850905e))
+    (pin "3" (uuid a8dbdcf7-b8a6-4d89-83b7-fb73977f029a))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2122,15 +2122,15 @@
     (property "Value" "Mix Stereo Out" (at 225.425 97.79 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 223.52 91.44 0)
+    (property "Footprint" "PCM_4ms_Jack:QuarterInch_Stereo_Vert_2Switches_REAN-NYS232" (at 223.52 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 223.52 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "R" (uuid 8ee5f964-aaf1-4dfc-acac-b6e8a953e23d))
-    (pin "S" (uuid bf73e64f-0b3c-4264-aff5-ff693d6445bb))
-    (pin "T" (uuid 3e7917c2-d7df-4316-aec7-ad09998f48a5))
+    (pin "R" (uuid 7029fbec-c930-428f-b7b5-4baf63467c1e))
+    (pin "S" (uuid 93763258-772e-4d6f-a0c5-7a04537936f0))
+    (pin "T" (uuid 1b9bd96f-ff8c-45e3-a907-5eeadd93c706))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2155,8 +2155,8 @@
     (property "Datasheet" "" (at 61.468 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 999193bd-ea84-4291-9ce0-5e20279f20dc))
-    (pin "2" (uuid a37d56d6-a2ca-4ab8-957a-62074e50fd5b))
+    (pin "1" (uuid 7769ad15-f515-4275-8493-567eb5268757))
+    (pin "2" (uuid e2981ab4-2b77-4eaf-b2eb-5766a50378aa))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2181,7 +2181,7 @@
     (property "Datasheet" "" (at 154.94 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c01c72aa-ea4e-4c6d-aea6-f28aebb2bfe0))
+    (pin "1" (uuid 9ca220a0-4ff5-488d-bca5-3e7b7796ddf7))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2206,8 +2206,8 @@
     (property "Datasheet" "" (at 61.468 166.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 62050e76-422c-4abe-a779-2bc48847d7fe))
-    (pin "2" (uuid 0e2a615b-40db-49d8-96ae-46abc4c61d1f))
+    (pin "1" (uuid de50d5ca-9cc5-4eaf-8eed-d74d5d0957d7))
+    (pin "2" (uuid bfa68a5f-81cf-48a6-ba28-c8e6ca9a118c))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2232,8 +2232,8 @@
     (property "Datasheet" "" (at 61.468 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4cbaf479-37e7-4bee-9857-f6411d8d1019))
-    (pin "2" (uuid fce4f562-54d9-4d6b-89a4-19b663f25c13))
+    (pin "1" (uuid 163f857a-10b9-4631-b1ef-ed7044f381ef))
+    (pin "2" (uuid e84e37d2-89c7-49dc-af5b-3d82244afe2d))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2252,14 +2252,14 @@
     (property "Value" "In 2.2" (at 29.21 131.445 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 34.29 129.54 0)
+    (property "Footprint" "PCM_4ms_Jack:QuarterInch_Stereo_Vert_SwitchCraftNYS234-3" (at 34.29 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 34.29 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "S" (uuid 91d4ad5e-5ad8-4132-9dba-3f6c2581140a))
-    (pin "T" (uuid 198d0165-5667-4abb-9806-e0b3a1b6576c))
+    (pin "S" (uuid 5e10103b-ea4b-4c59-8387-d952c6d90ffa))
+    (pin "T" (uuid cad56740-b6f0-4df2-a83b-85a996a13cb0))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2284,8 +2284,8 @@
     (property "Datasheet" "" (at 124.46 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid beb32b07-e3bc-4d5a-8436-076a2d9397ac))
-    (pin "2" (uuid 0f43eb5c-42f1-4506-b7bc-0572b75e38c1))
+    (pin "1" (uuid 0aa8c3a0-fd4c-443d-9d16-f3c7b64b12d7))
+    (pin "2" (uuid 08e9cea4-f209-4b34-ba98-06adc9897372))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2310,8 +2310,8 @@
     (property "Datasheet" "" (at 61.468 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 554aa36c-4c15-4191-89d1-8e03eb261eff))
-    (pin "2" (uuid 77042fc6-f48d-4004-bc13-3fe75ee48a82))
+    (pin "1" (uuid 8b55e244-7b32-4df2-8eca-82cdf3b2b48e))
+    (pin "2" (uuid 4b916652-5766-4fc8-8685-2734b4a004bb))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2330,26 +2330,26 @@
     (property "Value" "TL074" (at 91.44 43.18 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 90.17 48.26 0)
+    (property "Footprint" "PCM_4ms_Package_DIP:DIP-14_W7.62mm" (at 90.17 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf" (at 92.71 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid df3d01e1-839e-4459-9073-6b22ee6b333b))
-    (pin "2" (uuid 93188970-eb98-48e8-b614-be7041a367fc))
-    (pin "3" (uuid 0aa8fcb6-1199-45cc-ba58-b163825e2dd2))
-    (pin "5" (uuid 3394ccf1-6467-4a80-8547-d5b7ef82a7e8))
-    (pin "6" (uuid 1deec069-7a26-473a-a40c-18aaeae4d567))
-    (pin "7" (uuid 265fdd2d-5780-4c87-8d22-9f0f282dd7ec))
-    (pin "10" (uuid 636bf84b-b858-4795-8512-a3751e3bbe6f))
-    (pin "8" (uuid ee803d76-4cd1-4eba-af9b-af2c9ed24f34))
-    (pin "9" (uuid 7b0ea7e9-94c7-412b-bf46-044f122f6492))
-    (pin "12" (uuid a640f5cf-a3d4-4d9d-b06b-a7e96bcbfdbb))
-    (pin "13" (uuid 82afe65f-c059-4b40-863d-8405a8c5d626))
-    (pin "14" (uuid 14c8ad63-5b53-4e37-b8f2-5f9d97c3e4a9))
-    (pin "11" (uuid 5c55302d-6fb8-40e8-8a3f-d0f6f06f6bfe))
-    (pin "4" (uuid 7f6abaab-6d0d-4e7e-9af0-ddfd05c4b952))
+    (pin "1" (uuid f81673e0-d046-4c4f-bef7-11b855a02d78))
+    (pin "2" (uuid 42710157-5dc6-4d1f-b2f9-d100fadc6ca9))
+    (pin "3" (uuid 50b6c420-b1d6-4f65-aa8c-34a30adbb5e9))
+    (pin "5" (uuid 74642ae3-c8fb-45d2-a35d-670dc5699c9b))
+    (pin "6" (uuid 61afe703-0ebe-4942-88d2-6c90056e4dfd))
+    (pin "7" (uuid 5c6de8ca-a75c-4c68-9421-bbf66cc60c7c))
+    (pin "10" (uuid 65e03096-d887-44ed-ba8b-e74e1e019bb5))
+    (pin "8" (uuid dc487832-c3f7-483a-a5f0-47ea6ec41b71))
+    (pin "9" (uuid d431d141-abbc-4f24-af9b-043bf85ecff9))
+    (pin "12" (uuid 0b053fb7-b548-4a55-b485-7633ef0232a8))
+    (pin "13" (uuid 4ac6d6ce-c23d-4d2d-8a6f-666ac410bada))
+    (pin "14" (uuid 46edf22f-b213-4ad5-b8c0-6484cb0a4097))
+    (pin "11" (uuid aa685e39-6d72-44b5-a88c-23681a0c0147))
+    (pin "4" (uuid 33d297e4-058c-4f9b-a337-b2f8a0207b48))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2368,14 +2368,14 @@
     (property "Value" "In 1.2" (at 29.21 48.895 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 34.29 46.99 0)
+    (property "Footprint" "PCM_4ms_Jack:QuarterInch_Stereo_Vert_SwitchCraftNYS234-3" (at 34.29 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 34.29 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "S" (uuid 8430662f-c38f-4b1b-984a-9e1eb7115efa))
-    (pin "T" (uuid f85a41ea-3a54-4553-a1ce-bcb02120d78a))
+    (pin "S" (uuid 19ef4592-0046-4252-80f0-c0102e73647c))
+    (pin "T" (uuid 3e861f19-ff64-4b1c-a848-2a1fd8e1cd20))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2400,8 +2400,8 @@
     (property "Datasheet" "" (at 164.338 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 40e0c4ae-ae90-4bc0-a93a-e4ab1f2e261d))
-    (pin "2" (uuid ba95a94c-7aba-450d-8628-bfe72e22b5c0))
+    (pin "1" (uuid 6974dd48-811d-49c2-a47e-93ab4ce12870))
+    (pin "2" (uuid d6cbfc82-c35e-4e78-9ada-8683d6313ec8))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2414,25 +2414,25 @@
   (symbol (lib_id "Device:R_Potentiometer") (at 50.8 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5d6b6405-0e54-4ad3-9f2b-6f7fb0315fc6)
-    (property "Reference" "MIX1.6" (at 49.53 132.08 0)
+    (property "Reference" "MIX2.2" (at 49.53 132.08 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "100k" (at 49.53 134.62 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 50.8 133.35 0)
+    (property "Footprint" "PCM_4ms_Potentiometer:Pot_9mm_DShaft" (at 50.8 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 50.8 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 730c675d-7bfe-4c56-953a-7c10165e33e8))
-    (pin "2" (uuid 6ca419f0-b6aa-4daa-8b56-ff8454909b10))
-    (pin "3" (uuid c84407e8-5c21-481a-8575-7fc1749e4978))
+    (pin "1" (uuid 9d2012c0-c861-4623-a860-4cf7f3da52b4))
+    (pin "2" (uuid c53cc3d9-3dac-4e63-8431-1ca63a371536))
+    (pin "3" (uuid 58a02711-6866-4a5a-ab88-62f043622e9d))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
-          (reference "MIX1.6") (unit 1)
+          (reference "MIX2.2") (unit 1)
         )
       )
     )
@@ -2453,7 +2453,7 @@
     (property "Datasheet" "" (at 41.91 176.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ca8ab82a-9047-4a94-b8fe-4a1b9a446e62))
+    (pin "1" (uuid 3ddb5264-8b02-4d2d-8a9c-3293ea5ae914))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2478,7 +2478,7 @@
     (property "Datasheet" "" (at 83.82 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4d7dcf60-10a6-449b-aa58-14758eeb3cbf))
+    (pin "1" (uuid f4249cbd-8baf-4659-a53a-966ccd808f10))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2491,25 +2491,25 @@
   (symbol (lib_id "Device:R_Potentiometer") (at 50.8 166.37 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6e1e9ca8-73d6-4df1-bfa7-281ca20c9276)
-    (property "Reference" "MIX1.8" (at 49.53 165.1 0)
+    (property "Reference" "MIX2.4" (at 49.53 165.1 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "100k" (at 49.53 167.64 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 50.8 166.37 0)
+    (property "Footprint" "PCM_4ms_Potentiometer:Pot_9mm_DShaft" (at 50.8 166.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 50.8 166.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e29601a1-0cac-4a63-9d06-f18c6bc9385d))
-    (pin "2" (uuid e3b98f12-dc60-4507-8f2f-2d48d36d2b8a))
-    (pin "3" (uuid 48643a94-2023-49ef-b0fd-ec9479dc71c1))
+    (pin "1" (uuid bfe372cd-5d31-4e61-805a-e69d3a467ba6))
+    (pin "2" (uuid 7094c29f-6b3f-4765-89d7-b5cc0a4cb918))
+    (pin "3" (uuid af0ee66c-aae0-43d5-884b-a5a6c255fa95))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
-          (reference "MIX1.8") (unit 1)
+          (reference "MIX2.4") (unit 1)
         )
       )
     )
@@ -2530,7 +2530,7 @@
     (property "Datasheet" "" (at 170.18 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 61f27387-3981-4e49-8d92-1a3bc4d44b5c))
+    (pin "1" (uuid 5b8636a9-d176-48ca-8d2a-f358e7dcd3cf))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2555,7 +2555,7 @@
     (property "Datasheet" "" (at 116.84 128.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5cd33de3-44f2-4125-bac5-e592168ec35c))
+    (pin "1" (uuid 058a0097-68d8-4b5c-8e17-d099c0e58d45))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2580,8 +2580,8 @@
     (property "Datasheet" "" (at 144.018 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cc6362eb-cbe5-4453-ae76-bf9478d1c10e))
-    (pin "2" (uuid effb159d-6caa-4a7c-b935-ac5549e83e0d))
+    (pin "1" (uuid 05d80a96-8574-40ba-82c0-3b46804aecb3))
+    (pin "2" (uuid 7c5d2e73-a4e7-4568-9c0c-33f4c6077f3e))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2594,25 +2594,25 @@
   (symbol (lib_id "Device:R_Potentiometer") (at 50.8 149.86 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 784b27fa-b920-4f2f-bdd6-f3e183c584fe)
-    (property "Reference" "MIX1.7" (at 49.53 148.59 0)
+    (property "Reference" "MIX2.3" (at 49.53 148.59 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "100k" (at 49.53 151.13 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 50.8 149.86 0)
+    (property "Footprint" "PCM_4ms_Potentiometer:Pot_9mm_DShaft" (at 50.8 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 50.8 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d129a70c-295e-4254-bcd9-85800326a4a4))
-    (pin "2" (uuid 0d0c446f-b098-4512-b113-ca6bc0e92c02))
-    (pin "3" (uuid e8004272-c994-448c-aced-882c959c22b6))
+    (pin "1" (uuid be6ac39a-b08f-435c-9206-d08687d9d986))
+    (pin "2" (uuid 12825394-6a65-42dc-88c9-cf7d7daab151))
+    (pin "3" (uuid 391292d2-627d-47dd-997f-f281369e77ee))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
-          (reference "MIX1.7") (unit 1)
+          (reference "MIX2.3") (unit 1)
         )
       )
     )
@@ -2627,14 +2627,14 @@
     (property "Value" "Out 2" (at 170.815 158.75 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 170.18 152.4 0)
+    (property "Footprint" "PCM_4ms_Jack:QuarterInch_Stereo_Vert_SwitchCraftNYS234-3" (at 170.18 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 170.18 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "S" (uuid b215155b-1feb-4b56-a446-a2c0c3d8ba02))
-    (pin "T" (uuid 8a62c747-b903-4e26-92a8-35d4f7f5cf0c))
+    (pin "S" (uuid 0b0377ce-68db-4ef9-b50e-82981f05dd2f))
+    (pin "T" (uuid cdf3520c-cb5a-4aff-83d5-6799510e2264))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2653,15 +2653,15 @@
     (property "Value" "100k" (at 49.53 35.56 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 50.8 34.29 0)
+    (property "Footprint" "PCM_4ms_Potentiometer:Pot_9mm_DShaft" (at 50.8 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 50.8 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid dae2bf53-f017-478a-8895-331b26006d83))
-    (pin "2" (uuid 0379f70b-4e1f-494f-9514-643e61f09c43))
-    (pin "3" (uuid 78f27490-5e3f-44b3-a1b9-dec76cecde9f))
+    (pin "1" (uuid d87d2de7-2420-473b-8e41-008ccca888c9))
+    (pin "2" (uuid 52224eca-58fa-42b9-9897-8dc39ecd7a5c))
+    (pin "3" (uuid e25fbb7a-118e-401e-9221-1baae1575995))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2680,14 +2680,14 @@
     (property "Value" "In 2.1" (at 29.21 115.57 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 34.29 113.03 0)
+    (property "Footprint" "PCM_4ms_Jack:QuarterInch_Stereo_Vert_SwitchCraftNYS234-3" (at 34.29 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 34.29 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "S" (uuid 9da0200b-850e-44ac-865e-4f758e133595))
-    (pin "T" (uuid bbd00556-5605-4d7d-9c8e-d4592d53fcc0))
+    (pin "S" (uuid 62a18799-a33d-4b59-b7cc-8fc15e394641))
+    (pin "T" (uuid 9c24ee33-7441-45ba-919c-d6f2730d634b))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2706,15 +2706,15 @@
     (property "Value" "100k" (at 49.53 85.09 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 50.8 83.82 0)
+    (property "Footprint" "PCM_4ms_Potentiometer:Pot_9mm_DShaft" (at 50.8 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 50.8 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f669de1b-a6fe-400d-be00-b73fbcb4bc3c))
-    (pin "2" (uuid 65e70d56-6466-4535-929e-f512bab4da35))
-    (pin "3" (uuid 9c4cf65d-6e2c-4e8d-8d4c-e5da1ba63f0e))
+    (pin "1" (uuid 3a835dab-39e7-4157-8efd-8257341ad766))
+    (pin "2" (uuid 8caf2326-ca87-45ff-b486-2a78226fdd42))
+    (pin "3" (uuid fbd4e0d3-de27-4d60-9d15-391b5c86aa8f))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2739,8 +2739,8 @@
     (property "Datasheet" "" (at 108.458 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a46b67b6-152b-4d19-9a5f-4cfa20027dd6))
-    (pin "2" (uuid 1d60aa91-1270-44c2-86f7-87ff48885c40))
+    (pin "1" (uuid 4147b790-0bf0-41ca-b5d7-e1168ecac5b7))
+    (pin "2" (uuid d3998ba0-5b27-4052-9689-b0074d8e000b))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2753,25 +2753,25 @@
   (symbol (lib_id "Device:R_Potentiometer") (at 50.8 116.84 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8cc33ea9-6846-4ea0-9e09-203539a549a2)
-    (property "Reference" "MIX1.5" (at 49.53 115.57 0)
+    (property "Reference" "MIX2.1" (at 49.53 115.57 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "100k" (at 49.53 118.11 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 50.8 116.84 0)
+    (property "Footprint" "PCM_4ms_Potentiometer:Pot_9mm_DShaft" (at 50.8 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 50.8 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 01a60cca-110d-4965-8e8b-6df01055e2b8))
-    (pin "2" (uuid afb0e66f-fcf7-4c96-ba2e-84be543817de))
-    (pin "3" (uuid 68956dc4-c86b-4964-8256-3249682b9ef3))
+    (pin "1" (uuid dfa74b8c-63ba-4869-abd8-06abec4593e5))
+    (pin "2" (uuid 45cbbb1c-703c-4b80-9a2d-93ac90dd0cd0))
+    (pin "3" (uuid 56cb9794-f78d-4905-b12f-5287a09ea067))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
-          (reference "MIX1.5") (unit 1)
+          (reference "MIX2.1") (unit 1)
         )
       )
     )
@@ -2792,7 +2792,7 @@
     (property "Datasheet" "" (at 243.84 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ec35a474-deba-48b4-a6b5-155759e1d6d8))
+    (pin "1" (uuid bff23798-ce25-4bc6-98bd-31c6d1f10e7e))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2817,8 +2817,8 @@
     (property "Datasheet" "" (at 124.46 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7f21b2ca-26bb-4651-92c7-95d8f095b097))
-    (pin "2" (uuid 974d4004-aaf4-4228-ba67-c1fb48347230))
+    (pin "1" (uuid d6d80e31-e9c0-4d6f-aad6-4a91f2b893bd))
+    (pin "2" (uuid 67bb66b9-2c0f-49fd-9255-225de0319086))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2837,14 +2837,14 @@
     (property "Value" "In 1.1" (at 29.21 33.02 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 34.29 30.48 0)
+    (property "Footprint" "PCM_4ms_Jack:QuarterInch_Stereo_Vert_SwitchCraftNYS234-3" (at 34.29 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 34.29 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "S" (uuid f2a9cb40-a315-4487-9d70-b416b5659045))
-    (pin "T" (uuid 413891ad-c895-4083-828d-43fb415623a8))
+    (pin "S" (uuid 856c5c38-8d6f-4365-b65b-d06aec66a3c3))
+    (pin "T" (uuid 063967c9-c91c-45c5-85d4-cd5abde07276))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2869,7 +2869,7 @@
     (property "Datasheet" "" (at 116.84 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bef4d235-3cea-4508-afdb-5b4676e85509))
+    (pin "1" (uuid 127c34b1-23f3-4031-b345-7ecf8e0870b3))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2894,7 +2894,7 @@
     (property "Datasheet" "" (at 214.63 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5965fbbf-3226-4a20-b3ec-2a36b1db5786))
+    (pin "1" (uuid 55dd5592-1c64-45cc-a819-b50b192926b1))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2919,7 +2919,7 @@
     (property "Datasheet" "" (at 83.82 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a75426ed-fc08-40dd-b9ea-9947eca9fd6a))
+    (pin "1" (uuid dd313a44-7a92-413b-9d6f-435bc1233190))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2944,8 +2944,8 @@
     (property "Datasheet" "" (at 124.968 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f457ad88-3c1f-403e-9cad-e01a45b78ae6))
-    (pin "2" (uuid 8a0dae66-0ed5-4e90-81dc-b2fad94e63f6))
+    (pin "1" (uuid d33ce229-8760-41c7-a787-449a3a50f898))
+    (pin "2" (uuid 38f8be6a-2256-4424-bd5e-c58afcf21518))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2970,9 +2970,9 @@
     (property "Datasheet" "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF" (at 152.4 36.83 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid ff6998ce-afd4-411b-ae5f-771df863a162))
-    (pin "2" (uuid c1fc0f79-7c4e-4fb1-b44c-8ecfe3149a65))
-    (pin "3" (uuid efe13c42-7d8f-40b0-9f93-697ca12c797d))
+    (pin "1" (uuid 269ad187-f326-47ec-a3e1-95d71cc738c4))
+    (pin "2" (uuid 051f39df-4e96-474f-b186-2458a3b21cf3))
+    (pin "3" (uuid 585eaf03-f512-4d1e-8e3e-e8016a322aca))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -2997,8 +2997,8 @@
     (property "Datasheet" "" (at 61.468 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 368f1348-4e5c-4487-9fed-a2ef96e3b814))
-    (pin "2" (uuid 27efa9cf-9631-4a45-a02e-b529b9f9ce20))
+    (pin "1" (uuid faacd86b-a9da-4a29-9fb7-7088ecbbb549))
+    (pin "2" (uuid c106ebcb-8d1c-41ad-bb5b-a4ee684020bd))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -3023,8 +3023,8 @@
     (property "Datasheet" "" (at 108.458 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bf561c46-52d6-48e9-8c6a-6a64091143fd))
-    (pin "2" (uuid dd982e97-d7ab-4207-a7d7-0687ed1befae))
+    (pin "1" (uuid f580629f-6e38-41d7-a683-2d3c786875e5))
+    (pin "2" (uuid dd59f90f-d469-4c58-9faa-29c397b66874))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -3043,26 +3043,26 @@
     (property "Value" "TL074" (at 124.46 40.64 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 123.19 45.72 0)
+    (property "Footprint" "PCM_4ms_Package_DIP:DIP-14_W7.62mm" (at 123.19 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf" (at 125.73 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 34dcc7d9-e4da-4977-a9e2-9ec56a2ac244))
-    (pin "2" (uuid 70505bf1-964c-4f20-a9b2-c81322bddbf3))
-    (pin "3" (uuid 76194575-3006-47cc-8d5a-39047bce7103))
-    (pin "5" (uuid 44773db3-eba0-4380-8be5-df38ea1ccf55))
-    (pin "6" (uuid 3cfe8769-4680-4e29-a32e-db2c4f700e92))
-    (pin "7" (uuid 9b2c7096-1012-4619-bdb8-b3abe2fffe99))
-    (pin "10" (uuid 46f4141d-695f-4562-85cb-eac5d4d57240))
-    (pin "8" (uuid a3ca8282-4757-4183-80b9-c412ae366006))
-    (pin "9" (uuid 18446685-7c36-4f4b-b290-325dc5d2f30f))
-    (pin "12" (uuid 7f08f983-31a4-41c1-9f86-a6a64ba65103))
-    (pin "13" (uuid ecf03535-607a-402e-a670-b4ed65f417fa))
-    (pin "14" (uuid ccc062a6-5cba-43f1-99b5-ce27c6e7dd62))
-    (pin "11" (uuid 52c8f519-60af-4d03-8b54-5af62a53507f))
-    (pin "4" (uuid 7f832903-c822-4f35-a165-c7cb0f97d91e))
+    (pin "1" (uuid c96e0725-55b0-4a01-bd73-0ce7deefeee0))
+    (pin "2" (uuid 84d1ec21-2c8a-438f-87b5-124913b6d4b5))
+    (pin "3" (uuid 8e726ffa-d947-4c14-ae60-2a1b000f18ed))
+    (pin "5" (uuid 5ceaffb5-b0a9-4359-a49b-2a3b28d3ac73))
+    (pin "6" (uuid 81dc707f-ec15-439e-8955-7d4e462ea829))
+    (pin "7" (uuid 4b0c54ea-df92-4fba-ad35-086e6b9a0961))
+    (pin "10" (uuid 13ebcd09-0ebe-4503-85bb-309e09335c83))
+    (pin "8" (uuid 76fa7983-4886-4473-aa44-9e0e12da97bd))
+    (pin "9" (uuid 18270f61-ab23-42c8-b26c-5d0197cfd742))
+    (pin "12" (uuid a7d77cb3-a5b8-4198-a33e-0cfb84fd9f82))
+    (pin "13" (uuid 39d2b45c-6925-4f71-a40d-0a823b67f4f4))
+    (pin "14" (uuid e0c0df9d-b6de-421d-86bb-fb88fbbc31a7))
+    (pin "11" (uuid 3cf0db06-c5ac-4b23-948c-5d43b307f675))
+    (pin "4" (uuid 48b11ce9-a816-4a3a-b750-e57268cce543))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -3087,8 +3087,8 @@
     (property "Datasheet" "" (at 144.018 36.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ed12be4e-4525-4144-84f2-dafc58993dad))
-    (pin "2" (uuid 7a3e92da-d51c-4882-a469-802bb3441ffb))
+    (pin "1" (uuid c8253ef2-44b8-441e-8605-aba9d954bdee))
+    (pin "2" (uuid c52bd226-912f-4ed2-ad26-a470dbf3fc90))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -3107,14 +3107,14 @@
     (property "Value" "10uF" (at 268.5161 149.86 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 267.97 153.67 0)
+    (property "Footprint" "PCM_4ms_Capacitor:CP_Radial_P2.5mm" (at 267.97 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 267.97 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6b8688e4-d046-4a19-ba5c-8dc6ccc534c7))
-    (pin "2" (uuid 3ce3dafe-3446-493a-b9e7-26c2e22efc21))
+    (pin "1" (uuid 5b031153-56a0-4dc2-967a-069ee4815dd6))
+    (pin "2" (uuid 657644f4-e0d3-4cce-bada-6ee1eb82c7d4))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -3133,26 +3133,26 @@
     (property "Value" "TL074" (at 91.44 125.73 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 90.17 130.81 0)
+    (property "Footprint" "PCM_4ms_Package_DIP:DIP-14_W7.62mm" (at 90.17 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf" (at 92.71 128.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e9b344be-a198-4783-85b5-3ec6ef9a82bb))
-    (pin "2" (uuid 77eda8b6-2930-4ae3-a7fd-b95098882829))
-    (pin "3" (uuid 6f73ac05-c564-4ee0-87ec-990e17c009eb))
-    (pin "5" (uuid 7510c24a-e744-4dc1-93c7-e9c03d7eaca2))
-    (pin "6" (uuid 5afb4f69-eb2d-4591-a487-d3dea6db6444))
-    (pin "7" (uuid ec6b3c70-5d2d-4902-a131-ce045eac6759))
-    (pin "10" (uuid 83ad9fb6-6b82-4d4a-bdb8-cb51246a7265))
-    (pin "8" (uuid e80b5b36-be48-4780-b66b-cedb997c3e73))
-    (pin "9" (uuid d53144f9-8a6f-49d2-b217-9bb112990caf))
-    (pin "12" (uuid 50cb9e9d-998f-457d-bcf6-9ddc1b1d37af))
-    (pin "13" (uuid 8c3b0e1e-91f9-4aee-bc8e-8c848e4cf0fd))
-    (pin "14" (uuid 8abfe08e-ce51-485e-9405-2b4ea08daf32))
-    (pin "11" (uuid 5ccc4b7e-a615-40c8-b4ae-e7c27f65034e))
-    (pin "4" (uuid fea7d0c4-5ca1-4a05-8992-61939f1b8937))
+    (pin "1" (uuid e2b77aef-ac4c-43dd-856d-9b009a85b3b1))
+    (pin "2" (uuid 66111625-48ff-434a-b854-96eb1bcc952d))
+    (pin "3" (uuid ec3ce9d8-a77a-4ad1-90bc-d6a7146a31ae))
+    (pin "5" (uuid 5c5b0428-cb9d-44d6-8a78-4923c19c6e71))
+    (pin "6" (uuid 91454e89-320c-45b0-85b3-504bf77aa166))
+    (pin "7" (uuid 91a8868b-9e7f-4631-91ca-007d6a7a56d4))
+    (pin "10" (uuid f284260d-b8e9-4748-9367-087b3b4e5e1f))
+    (pin "8" (uuid d749c3e5-97f5-4142-bd85-f11f49118ff1))
+    (pin "9" (uuid 7cb8705f-2251-4179-afe0-ff00ea296159))
+    (pin "12" (uuid 364c56f2-ab4b-4e7b-b3c5-da5898cd230c))
+    (pin "13" (uuid 6f62b2fb-e06e-4151-a8a8-e98744a5e63c))
+    (pin "14" (uuid b91c97ad-336e-4733-ac83-b05f50091856))
+    (pin "11" (uuid dd3aee4d-ac08-49a9-b31c-2b6e75a404d3))
+    (pin "4" (uuid 88fe9069-2ddf-4cf5-b686-52d33d06ac7b))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -3171,14 +3171,14 @@
     (property "Value" "LED" (at 158.75 48.5775 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 154.94 48.26 0)
+    (property "Footprint" "PCM_4ms_LED:LED_3mm_C1A2_Polarity_Indicator" (at 154.94 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 154.94 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cfdf9ef1-319f-4345-829a-b99de3f4294a))
-    (pin "2" (uuid 46054d3e-9e5b-40e7-b99c-fb77edfd3f15))
+    (pin "1" (uuid e3b26770-9cb6-440a-b308-c4174087ddfe))
+    (pin "2" (uuid 0d5f838b-f8bd-439f-9f06-061325672ff4))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -3209,8 +3209,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 135.89 36.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 854e0bc5-2f61-4d0f-b9da-710333e14fd1))
-    (pin "2" (uuid 397fc49f-7fab-4d2e-af83-90dcb25d96d8))
+    (pin "1" (uuid 7c2020dc-92c2-4c9c-accc-2b1a0a884c88))
+    (pin "2" (uuid 94d88698-89bc-45be-8193-802fc715a178))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -3235,7 +3235,7 @@
     (property "Datasheet" "" (at 170.18 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 786ea10c-984e-4a09-9a54-d52d47c2fc6a))
+    (pin "1" (uuid 552c29ba-82a7-41af-b031-4d9ac19db374))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -3254,15 +3254,15 @@
     (property "Value" "100k" (at 82.55 71.12 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 83.82 69.85 0)
+    (property "Footprint" "PCM_4ms_Potentiometer:Pot_9mm_DShaft" (at 83.82 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 83.82 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4d0526e8-a522-4485-8b46-7b40b724ae7a))
-    (pin "2" (uuid 7b15f0a9-1523-428e-8123-0aba5fc1d4d0))
-    (pin "3" (uuid 431c8731-1b3a-4f47-9e08-322c3335a29e))
+    (pin "1" (uuid 9a0acb62-bd5b-45c8-9279-38827ab406c0))
+    (pin "2" (uuid 177f9f4b-8069-4093-9c32-800a2569b871))
+    (pin "3" (uuid 588872c5-c892-4f70-9cf1-2d4933d76225))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -3287,8 +3287,8 @@
     (property "Datasheet" "" (at 61.468 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1527e1eb-7354-46a5-bc29-d30104363920))
-    (pin "2" (uuid e40b76a5-5c64-4d39-b56b-63fd19bbd00b))
+    (pin "1" (uuid b82553d2-31b3-430e-845d-2e4d818dc161))
+    (pin "2" (uuid 7d5bc980-07bb-4b42-aebf-92e26412a63b))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -3313,8 +3313,8 @@
     (property "Datasheet" "" (at 250.19 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fd8a8799-2d2c-40d5-845d-b69a1dfda5dc))
-    (pin "2" (uuid 09a48f64-c782-4d5e-a84c-62e949d2f682))
+    (pin "1" (uuid 3bf77211-b211-4cda-a2e2-6f9c88640ece))
+    (pin "2" (uuid 4c52d68f-fafa-449e-b2cb-424e5e5d8a00))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -3339,7 +3339,7 @@
     (property "Datasheet" "" (at 274.32 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 667b1459-930b-47ff-ae23-89b802d3119f))
+    (pin "1" (uuid bf3741d9-4422-43f7-bb68-0015e9e2c912))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -3364,7 +3364,7 @@
     (property "Datasheet" "" (at 41.91 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid edbfbc18-f4b4-42c6-abed-330ffa3e9994))
+    (pin "1" (uuid bf698586-b18a-455f-8343-5f27673f506e))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -3383,14 +3383,14 @@
     (property "Value" "In 2.4" (at 29.21 164.465 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 34.29 162.56 0)
+    (property "Footprint" "PCM_4ms_Jack:QuarterInch_Stereo_Vert_SwitchCraftNYS234-3" (at 34.29 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 34.29 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "S" (uuid 2d721b7f-76a1-430f-89c3-19ad6f109de0))
-    (pin "T" (uuid 744d9784-e5d6-4058-b176-8e1bd4e22e05))
+    (pin "S" (uuid 0c95d455-5340-42c3-a2b8-397de0daadbd))
+    (pin "T" (uuid ff2951fd-d7d9-4470-85cf-b69fe31d5ed8))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -3409,26 +3409,26 @@
     (property "Value" "TL074" (at 260.35 143.51 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 260.35 139.7 0)
+    (property "Footprint" "PCM_4ms_Package_DIP:DIP-14_W7.62mm" (at 260.35 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf" (at 262.89 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d93e1041-3095-41e4-acc1-ba3170f6485d))
-    (pin "2" (uuid 800d797c-0e80-4321-bb2b-062981b91335))
-    (pin "3" (uuid 054e580e-f694-4ce5-a659-c2df25a0aa80))
-    (pin "5" (uuid 78f33ae3-515e-451d-bad5-27a74ab2165d))
-    (pin "6" (uuid f05f49fc-18c3-4ca0-8e4b-b7149116a91c))
-    (pin "7" (uuid 4d4c285a-206d-45dc-92bf-8ae4c1824847))
-    (pin "10" (uuid 7e46cdcb-61f4-4a1f-a548-19e044a64154))
-    (pin "8" (uuid c06d7a30-8c92-4a40-ba84-3abec1c9fe78))
-    (pin "9" (uuid 419a34f8-c333-412e-bcf3-95c10024b476))
-    (pin "12" (uuid 0dfd1307-bdfe-4557-806c-a6df8c133b43))
-    (pin "13" (uuid 0ca511a2-6b74-4b00-8d0c-8f6aa5d024c5))
-    (pin "14" (uuid 7e862205-5b5e-44fc-b041-b26385f648d8))
-    (pin "11" (uuid 2d68557e-f8ee-47cd-9aee-7298003037bb))
-    (pin "4" (uuid af5ec33d-5c88-4d35-986b-6b3f3cec60a7))
+    (pin "1" (uuid b8261204-fb44-4e1d-80a7-7f28bfdac5c7))
+    (pin "2" (uuid 62765242-ceb2-4241-a418-dd099a34dc94))
+    (pin "3" (uuid 729b5d25-e1ed-4cd9-b8c7-c9aca8a4ebd8))
+    (pin "5" (uuid 98331a0a-c8b8-4047-af8e-4c62bf7f0558))
+    (pin "6" (uuid 2a716270-97ba-4c89-945d-28abec3c143d))
+    (pin "7" (uuid 49b3cf2e-42b5-4d97-be32-b4455b42fb1c))
+    (pin "10" (uuid 9c80791a-c913-468e-bad9-42e647865342))
+    (pin "8" (uuid 81f88a67-75d3-4a83-b3a4-c1e59c0971c5))
+    (pin "9" (uuid 84d66714-13f2-48c7-814f-344e33d1faa7))
+    (pin "12" (uuid a802f71f-945e-41c1-a249-bebab73c25cb))
+    (pin "13" (uuid 8a9271f9-7684-4256-9a82-6fadf724cc47))
+    (pin "14" (uuid c840b79c-b6b8-438c-b698-a572ed3cda65))
+    (pin "11" (uuid 1151682d-83c7-40ff-aacc-d396faa8848d))
+    (pin "4" (uuid 5fd42163-0d31-4b75-ad46-3e2d5d038b11))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -3453,7 +3453,7 @@
     (property "Datasheet" "" (at 243.84 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8ddfbfd6-f10e-4c02-b388-4e7137a9d7b8))
+    (pin "1" (uuid 63e595cf-4a9b-47e9-a36a-d9c2b22b2a1a))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -3484,8 +3484,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 135.89 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 56f90277-5d17-4b0a-9a81-a1739fe5a5e9))
-    (pin "2" (uuid 107a804e-d1b2-4b5b-b469-51198445aab8))
+    (pin "1" (uuid 47ba97ea-7f32-4e12-8e59-de6020c05b53))
+    (pin "2" (uuid 07272ac2-1692-48ee-9fdb-700b17cd972f))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -3504,14 +3504,14 @@
     (property "Value" "Out 1" (at 170.815 76.2 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 170.18 69.85 0)
+    (property "Footprint" "PCM_4ms_Jack:QuarterInch_Stereo_Vert_SwitchCraftNYS234-3" (at 170.18 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 170.18 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "S" (uuid 972a072a-3952-470d-9dca-21b77f5df932))
-    (pin "T" (uuid cf603c70-e5cb-4d47-8733-a7b28422b666))
+    (pin "S" (uuid 15369852-39e5-4208-8ea4-fbedecab1f41))
+    (pin "T" (uuid 99440f5e-99aa-4b86-86a1-5f89fa8b6284))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
@@ -3536,7 +3536,7 @@
     (property "Datasheet" "" (at 259.08 127 0)
       (effects (font (size 2.54 2.54)) hide)
     )
-    (pin "0" (uuid 5b063dd7-cfa3-456d-b77c-8eef81d4724b))
+    (pin "0" (uuid bbd74f3f-34c8-40b9-898a-942de2853b5a))
     (instances
       (project "Mixer"
         (path "/7953a940-4dd3-4ecd-9e3a-aee4f61292de"
